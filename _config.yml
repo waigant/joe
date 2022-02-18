@@ -1,11 +1,11 @@
 # Site settings
-title: Sergei Waigant
-email: sergei@waigant.com
-url: https://github.com/sergeiwaigant
-description: "Hi there! I am Sergei Waigant and if you think we should collaborate on any project - contact me on any channel and lets have a chat!"
-keywords: "IT,Infrastructure,Architecture,SRE,DevOps,Apache,Kafka,Confluent,CloudBees,Jenkins,Cloud,AWS,Azure,GCP"
-skills: "IT Infrastructure Architect | SRE & DevOps Engineer | Automation & Event Streaming Enthusiast"
-meta_author: Waigant Sergei
+title: João de Jesus Marques
+email: joe@veloschmiede.de
+url: https://github.com/???
+description: "Hi there! I am João de Jesus Marques and if you think we should collaborate on any project - contact me on any channel and lets have a chat!"
+keywords: "Bikes,Fahrrad,Fixed"
+skills: "Bikes Bikes | Elsa Elsa | Luna Luna"
+meta_author: João de Jesus Marques
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Sergei Waigant
+  copyright: João de Jesus Marques
   location: Location
   social: Around the Web
   credits: Contact
@@ -40,25 +40,24 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: xing
-    url: https://www.xing.com/profile/Sergei_Waigant
+    url: https://www.xing.com/profile/???
   - title: linkedin
-    url: https://www.linkedin.com/in/sergeiwaigant/
+    url: https://www.linkedin.com/in/???/
   - title: facebook
-    url: https://www.facebook.com/swaigant/
+    url: https://www.facebook.com/???/
   - title: github
-    url: https://github.com/sergeiwaigant
+    url: https://github.com/???
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Somewhere in...
-  - line: 8220 Chloraka
-  - line: Paphos District - Cyprus
+  - line: 49610 Quakenbrück
+  - line: Lower Saxony - Germany
 
 # Credits content
 credits:
-  - line: <a href="tel:+49-175-2092782">+49-175-2092782</a>
-  - line: <a href="tel:+357-96-397761">+357-96-397761</a>
-  - line: <a href="mailto:sergei@waigant.com">sergei@waigant.com</a>
+  - line: <a href="tel:+49-174-6909320">+49-174-6909320</a>
+  - line: <a href="mailto:joe@veloschmiede.de">joe@veloschmiede.de</a>
 
 # <table style="width:100%; font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 15px;">
 # <tr>
