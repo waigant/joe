@@ -3,7 +3,7 @@ title: Joe's Veloschmiede
 email: joe@veloschmiede.de
 url: https://github.com/???
 description: "Hi there! I am João de Jesus Marques and if you think we should collaborate on any project - contact me on any channel and lets have a chat!"
-keywords: "Fahhräder, e-bike, Werkstatt, fahrradwerksatatt"
+keywords: "Bikes,Fahrrad,Fixed"
 skills: "Fahrräder jeder Art | E-Bikes| Ergonomische anpassung "
 meta_author: João de Jesus Marques
 
@@ -25,7 +25,7 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: #f09200 #4169E1
+  primary: ffd700 #4169E1
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
@@ -50,9 +50,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Veloschmiede
-  - line: 49635 Badbergen
-  - line: Am ende des Radwegs
+  - line: Somewhere in...
+  - line: 49610 Quakenbrück
+  - line: Lower Saxony - Germany
 
 # Credits content
 credits:
