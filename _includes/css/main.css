@@ -49,7 +49,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: "\f013";
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -110,6 +110,10 @@ header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
 }
+header .intro-text .callme {
+    font-size: 1.25em;
+    font-weight: 600;
+}
 
 @media(min-width:768px) {
     header .container {
@@ -122,6 +126,9 @@ header .intro-text .skills {
     }
 
     header .intro-text .skills {
+        font-size: 1.75em;
+    }
+    header .intro-text .callme {
         font-size: 1.75em;
     }
 }
