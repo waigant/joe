@@ -4,7 +4,14 @@ email: joe@veloschmiede.de
 url: https://github.com/???
 description: "Hi there! I am João de Jesus Marques and if you think we should collaborate on any project - contact me on any channel and lets have a chat!"
 keywords: "Fahhräder, Fahrrad, E-Bike, E-Bikes, Werkstatt, Fahrradwerkstatt"
-skills: "Fahrräder jeder Art | E-Bikes | Ergonomische Anpassung"
+# skills: "Fahrräder jeder Art | E-Bikes | Ergonomische Anpassung"
+skills: |
+  Fahrräder jeder Art | E-Bikes | Ergonomische Anpassung
+services: |
+  Service vor Ort<br>
+  Zubehör und Ersatzteile<br>
+  Persönliche Anpassung<br>
+  Beratung und Optimierung
 meta_author: João de Jesus Marques
 
 # Google webmaster tools
@@ -25,14 +32,17 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: f09200 #4169E1
-  primary-rgb: "24,288,156" #"128,179,255"
+  # primary: f09200 #4169E1
+  primary: FFFFFF #4169E1
+  # primary-rgb: "24,288,156" #"128,179,255"
+  primary-rgb: "255,255,255" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
+  # secondary: f09200 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
-  copyright: João de Jesus Marques
+  copyright: João Alexandre de Jesus Marques
   location: Location
   social: Around the Web
   credits: Contact
@@ -56,6 +66,7 @@ address:
 
 # Credits content
 credits:
+  - line: João Alexandre de Jesus Marques
   - line: <a href="tel:+49-174-6909320">+49-174-6909320</a>
   - line: <a href="mailto:joe@veloschmiede.de">joe@veloschmiede.de</a>
 
